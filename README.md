@@ -27,6 +27,6 @@
 <br />
 <br />
 
-[website]: https://www.sagarsaha.me
+[website]: www.sagarsaha.me
 [twitter]: https://twitter.com/sagarsaha01
 [instagram]: https://instagram.com/sagar_saha01
