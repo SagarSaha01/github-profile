@@ -1,4 +1,4 @@
-### Hi there, I'm Sagar Saha - aka [Web Developer][website]👋
+# Hi there, I'm Sagar Saha - aka [Web Developer][website]👋
 
 ## I'm a programmer, video editor and web developer!
 - 🔭 I’m currently working on a [VS Code Course]!
