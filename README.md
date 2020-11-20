@@ -1,3 +1,7 @@
+# Thank You for visiting this website! Your system is currently being hacked!
+## Sit back and enjoy being hacked!!! 
+![](test.gif)
+
 # Hi there, I'm Sagar 😅
 
 ## I'm a student at Danforth Tech in Toronto!
@@ -42,3 +46,8 @@
 [twitter]: https://twitter.com/sagarsaha01
 [instagram]: https://www.instagram.com/sagar_saha01/
 [linkedin]: https://www.linkedin.com/in/
+
+
+# And now here's what I feel like when my code doesn't work
+
+![](test2.gif)
