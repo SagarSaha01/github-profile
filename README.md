@@ -1,24 +1,20 @@
-# Thank You for visiting this website! Your system is currently being hacked!
-## Sit back and enjoy being hacked!!! 
-![](test.gif)
+# Hi there, I'm Sagar :)
 
-# Hi there, I'm Sagar 😅
-
-## I'm a student at Danforth Tech in Toronto!
+## I'm a first year CS student @ York University!
 - 🔭 I’m currently working on [Web Development][website]!
 - 🌱 I’m currently learning Backend Web Development
-- 🏢 I'm open for fall 2021 hackathon projects
+- 🏢 I'm open for fall 2022 hackathon projects
 - 👯 I’m looking to collaborate with other students to create cool side projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Current Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: The word short is longer than the word long.
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="web" width="22px" src="https://hamiltonrising.com/wp-content/uploads/2018/09/website-logo-png.png" />][website]
+[<img align="left" alt="mail | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />][mail]
+[<img align="left" alt="linkdin | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="ig | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
 
 <br />
 
@@ -42,12 +38,13 @@
 <br />
 
 
-[website]: https://sagarsaha.me
+[website]: https://TheSagarSaha.github.io/me
 [twitter]: https://twitter.com/sagarsaha01
-[instagram]: https://www.instagram.com/sagar_saha01/
-[linkedin]: https://www.linkedin.com/in/
+[instagram]: https://www.instagram.com/TheSagarSaha/
+[linkedin]: https://www.linkedin.com/in/TheSagarSaha
+[mail]: mailto:sagarsaha2004@gmail.com
 
 
-# And now here's what I feel like when my code doesn't work
+# Me when my code does not work:
 
 ![](test2.gif)
